@@ -14,7 +14,7 @@ Download ollama and mistral:
 ```bash
 brew install ollama
 ollama serve
-ollama run mistral (4.7GB)
+ollama run mistral (4.7GB) # Might need to be ran before it works. I'm not sure.
 ```
 
 Install and run project:
